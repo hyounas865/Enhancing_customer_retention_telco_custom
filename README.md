@@ -68,4 +68,4 @@ The model’s default threshold of 0.5 churn probability was adjusted to improve
 ## Conclusion
 This project demonstrates the importance of adjusting the decision threshold to balance precision and recall in customer churn prediction. By strategically targeting retention efforts, TelCo can reduce churn more effectively.
 
-For detailed analysis, visualizations, and code, please refer to the Jupyter notebook on [GitHub](https://github.com/your-repo-link).
+For detailed analysis, visualizations, and code, please refer to the Jupyter notebook on [GitHub](https://github.com/hyounas865/Enhancing_customer_retention_telco_custom).
