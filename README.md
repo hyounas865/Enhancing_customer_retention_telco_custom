@@ -6,7 +6,7 @@ Customer attrition, also known as customer churn, customer turnover, or customer
 ## Abstract
 This documentation takes a unique approach to a well-known churn dataset, addressing the challenge that the dataset may lack the right features for deploying even the best predictive models. This README will cover the problem statement, data preparation steps, feature analysis, visualizations, and select Python code from various Scikit-learn classification models used for predicting customer churn. Most importantly, it demonstrates how adjusting the decision threshold probability along the precision-recall curve can help identify churn cases with confidence, leading to effective retention actions.
 
-For detailed code and analysis, refer to the Jupyter notebook on [GitHub](https://github.com/your-repo-link).
+For detailed code and analysis, refer to the Jupyter notebook on [GitHub](https://github.com/hyounas865/Enhancing_customer_retention_telco_custom).
 
 ## Business Objective
 A telecommunications company ("TelCo") is facing a significant customer churn rate of nearly 27%, which could potentially be disastrous for the company. Using the IBM Cognos Telco Customer Churn simulated dataset containing labeled churn for 7,043 customers, the objectives are:
